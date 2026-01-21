@@ -1,16 +1,15 @@
-## Hi there 👋
+# Aloha, I'm Alex
 
-<!--
-**aduggleby/aduggleby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Vienna** 
 
-Here are some ideas to get you started:
+> I'm what people used to call a software developer. I've always build and sold products, now I'm do it with the help of agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source Projects
+
+- 🚀 **[ando](https://andobuild.com)** - Build System based on C#
+- 🚇 **[octoporty](https://octoporty.com)** - Self hosted ngrok
+
+## What else?
+
+- **[alexduggleby.com](https://alexduggleby.com)** - Blog and learnings
+- **[Bluesky](https://bsky.app/profile/alexduggleby.com)** - Musings, now and again, but good way to get in touch
