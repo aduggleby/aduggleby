@@ -6,8 +6,8 @@
 
 ## Open Source Projects
 
-- 🚀 **[ando](https://andobuild.com)** [Repo](https://github.com/aduggleby/ando) - Build System based on C#
-- 🚇 **[octoporty](https://octoporty.com)** [Repo](https://github.com/aduggleby/octoporty) - Self hosted ngrok
+- 🚀 **[andobuild.com](https://andobuild.com)** / [Repo](https://github.com/aduggleby/ando) - Build System based on C#
+- 🚇 **[octoporty.com](https://octoporty.com)** / [Repo](https://github.com/aduggleby/octoporty) - Self hosted ngrok
 
 ## What else?
 
