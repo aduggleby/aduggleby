@@ -8,6 +8,7 @@
 
 - 🚀 **[andobuild.com](https://andobuild.com)** / [Repo](https://github.com/aduggleby/ando) - Build System based on C#
 - 🚇 **[octoporty.com](https://octoporty.com)** / [Repo](https://github.com/aduggleby/octoporty) - Self hosted ngrok
+- 📧 **[selfmx.com](https://selfmx.com)** / [Repo](https://github.com/aduggleby/selfmx) - Self hosted resend
 
 ## What else?
 
