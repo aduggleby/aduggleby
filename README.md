@@ -2,13 +2,14 @@
 
 📍 **Vienna** 
 
-> I'm what people used to call a software developer. I've always build and sold products, now I'm do it with the help of agents.
+> I'm what people used to call a software developer. I've always built and sold products, now I do it with the help of agents.
 
 ## Open Source Projects
 
 - 🚀 **[andobuild.com](https://andobuild.com)** / [Repo](https://github.com/aduggleby/ando) - Build System based on C#
 - 🚇 **[octoporty.com](https://octoporty.com)** / [Repo](https://github.com/aduggleby/octoporty) - Self hosted ngrok
 - 📧 **[selfmx.com](https://selfmx.com)** / [Repo](https://github.com/aduggleby/selfmx) - Self hosted resend
+- 💓 **[Pulse](https://github.com/aduggleby/pulse)** - Minimal hourly time tracker
 
 ## What else?
 
