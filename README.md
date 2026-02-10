@@ -11,6 +11,7 @@
 - 📧 **[selfmx.com](https://selfmx.com)** / [Repo](https://github.com/aduggleby/selfmx) - Self hosted resend
 - 💓 **[Pulse](https://github.com/aduggleby/pulse)** - Minimal hourly time tracker
 - 💾 **[localsend-cli](https://github.com/aduggleby/localsend-cli)** - Headless LocalSend CLI for automation and LLM control
+- 🦅 **[Hawk](https://github.com/aduggleby/hawk)** - Uptime monitoring
 
 ## What else?
 
