@@ -12,6 +12,7 @@
 - 💓 **[Pulse](https://github.com/aduggleby/pulse)** - Minimal hourly time tracker
 - 💾 **[localsend-cli](https://github.com/aduggleby/localsend-cli)** - Headless LocalSend CLI for automation and LLM control
 - 🦅 **[Hawk](https://github.com/aduggleby/hawk)** - Uptime monitoring
+- 📦 **[Agora](https://github.com/aduggleby/agora)** - ASP.NET Core file sharing service with ZIP links and download notifications
 
 ## What else?
 
