@@ -10,11 +10,11 @@
 
 - 🚀 **[andobuild.com](https://andobuild.com)** / [Repo](https://github.com/aduggleby/ando) - Build System based on C#
 - 🚇 **[octoporty.com](https://octoporty.com)** / [Repo](https://github.com/aduggleby/octoporty) - Self hosted ngrok
-- 📧 **[selfmx.com](https://selfmx.com)** / [Repo](https://github.com/aduggleby/selfmx) - Self hosted resend
+- 📧 **[selfmx.com](https://selfmx.com)** / [Repo](https://github.com/aduggleby/selfmx) - Self hosted esp with a resend sending layer
 - 💓 **[Pulse](https://github.com/aduggleby/pulse)** - Minimal hourly time tracker
 - 💾 **[localsend-cli](https://github.com/aduggleby/localsend-cli)** - Headless LocalSend CLI for automation and LLM control (Rust)
 - 🦅 **[Hawk](https://github.com/aduggleby/hawk)** - Uptime monitoring
-- 📦 **[Agora](https://github.com/aduggleby/agora)** - Self hosted wetransfer
+- 📦 **[Agora](https://github.com/aduggleby/agora)** - Self hosted file transfer (similar to wetransfer)
 
 ## What else?
 
