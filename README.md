@@ -15,6 +15,7 @@
 - 💾 **[localsend-cli](https://github.com/aduggleby/localsend-cli)** - Headless LocalSend CLI for automation and LLM control (Rust)
 - 🦅 **[Hawk](https://github.com/aduggleby/hawk)** - Uptime monitoring
 - 📦 **[Agora](https://github.com/aduggleby/agora)** - Self hosted file transfer (similar to wetransfer)
+- 𓃑 **[Dashboard](https://github.com/aduggleby/dashboard)** - Simple App Landing Page Dashboard (can point to different apps like TrueNAS containers)
 
 ## What else?
 
