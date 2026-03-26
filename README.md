@@ -15,6 +15,7 @@
 - 💾 **[localsend-cli](https://github.com/aduggleby/localsend-cli)** - Headless LocalSend CLI for automation and LLM control (Rust)
 - 🦅 **[Hawk](https://github.com/aduggleby/hawk)** - Uptime monitoring
 - 📦 **[Agora](https://github.com/aduggleby/agora)** - Self hosted file transfer (similar to wetransfer)
+- ✍️ **[Pyrite](https://github.com/aduggleby/Pyrite)** - Mobile-first self hosted markdown vault editor for TrueNAS
 - 𓃑 **[Dashboard](https://github.com/aduggleby/dashboard)** - Simple App Landing Page Dashboard (can point to different apps like TrueNAS containers)
 - 🏛️ **[Alexandria](https://github.com/aduggleby/alexandria)** - Browser-based SQL Server explorer and query tool
 - 🔠 **[ASCII Style Lab](https://github.com/aduggleby/AsciiLogo)** - Live ASCII logo generator with 40+ styles and one-click copy
